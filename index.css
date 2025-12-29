@@ -1,0 +1,93 @@
+h2{
+    text-align: center;
+    margin-left: 10cm;
+    background-color: burlywood;
+}
+.brich{
+    height: 20cm;
+    width: 30cm;
+    margin-left: 17%;
+    background-color: rgb(130, 46, 46);
+    border-radius: 50px 100px / 120px;
+    text-align: center;
+}
+.child{
+    height: 12cm;
+    width: 7.9cm;
+    background-color: rgb(4, 247, 247);
+    margin-left: 1cm;
+    margin-top: 2cm;
+    font-size:large;
+    font-weight: 800;
+    text-align: center;
+    border-radius: 30px; 
+    box-shadow: 8px 8px  rgb(92, 113, 113);
+}
+h4{
+    text-align: center;
+   
+
+}
+.child-2{
+    height: 12cm;
+    width: 7.9cm;
+    background-color:  rgb(4, 247, 247);
+    margin-left: 10cm;
+    margin-top: -12cm;
+     border-radius: 30px;
+     text-align:center;
+     font-size:large;
+     font-weight: 800; 
+     box-shadow: 8px 8px  rgb(92, 113, 113);
+}
+h3{
+    text-align: center;
+    margin-top: 1%;
+}
+.child-3{
+    height: 12cm;
+    width: 7.9cm;
+    background-color:  rgb(4, 247, 247);
+    margin-left: 19cm;
+    margin-top: -12cm;
+    border-radius: 30px;
+     text-align:center;
+     font-size:large;
+     font-weight: 900;
+     box-shadow: 8px 8px  rgb(92, 113, 113);
+}
+.btn{
+    background: linear-gradient(135deg,#6a11cb,#2575fc);
+    color: rgb(226, 43, 43);
+    padding:5px;
+    width: 50%;
+    height: 10%;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: 0.3s ease;
+    font-size: 20px;
+    font-style: italic;
+}
+.btn:hover{
+    transform: translateY(-3px);
+    background: linear-gradient(135deg,#2575fc,#6a11cb);
+    box-shadow: 5px 10px rgba(58,123,213,0.4);
+}
+.child:hover{
+    background-color: coral;
+    transform: translateY(-3px);
+    background: linear-gradient(135deg,rgb(253, 7, 183),#e75c1b);
+}
+.child-2:hover{
+    background-color: coral;
+    transform: translateY(-3px);
+    background: linear-gradient(135deg,rgb(253, 7, 183),#e75c1b);
+}
+.child-3:hover{
+    background-color: coral;
+    transform: translateY(-3px);
+    background: linear-gradient(135deg,rgb(253, 7, 183),#e75c1b);
+}
+.about{
+    border-radius: 5%;
+}
